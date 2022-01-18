@@ -1,5 +1,22 @@
 /* style.css */
 
 h1 {
-  color: green;
+  text-align: center;
+  color: rgb(85, 83, 85);
+  font-family: Helvetica, Arial, sans-serif
+}
+
+h2, h3 {
+  color: rgb(87, 214, 87);
+  font-family: Helvetica, Arial, sans-serif
+}
+
+li {
+  color: rgb(85, 83, 85);
+  font-family: Helvetica, Arial, sans-serif
+}
+
+.propimage {
+  width: 600px;
+  height: auto;
 }
